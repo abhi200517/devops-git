@@ -1,1 +1,2 @@
 Hey, this is another GITHUB account that I used to understand Forking
+Hey, I have forked this repo and made the changes in doc.txt
